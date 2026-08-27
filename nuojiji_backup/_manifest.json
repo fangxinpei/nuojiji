@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812805759,
+  "timestamp": 1787812812858,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -164,7 +164,8 @@
     "plugins": true,
     "pluginAssets": true,
     "pluginData": true,
-    "charLifePlans": true
+    "charLifePlans": true,
+    "_migration": true
   },
   "inProgress": true
 }
