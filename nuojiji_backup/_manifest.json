@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812527087,
+  "timestamp": 1787812531630,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -87,8 +87,7 @@
   ],
   "chunkedTables": {
     "messages": 2,
-    "roleStickers": 2,
-    "imageStore": 1
+    "roleStickers": 2
   },
   "completedTables": {
     "characters": true,
@@ -123,18 +122,7 @@
     "groupChats": true,
     "xinsheng": true,
     "pomodoroSessions": true,
-    "couplesData": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customGameSaves": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "lifeRpgData": true
+    "couplesData": true
   },
   "inProgress": true
 }
