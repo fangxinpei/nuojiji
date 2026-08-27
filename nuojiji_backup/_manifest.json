@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812596620,
+  "timestamp": 1787812601231,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -88,7 +88,7 @@
   "chunkedTables": {
     "messages": 2,
     "roleStickers": 2,
-    "imageStore": 5
+    "imageStore": 1
   },
   "completedTables": {
     "characters": true,
@@ -123,7 +123,30 @@
     "groupChats": true,
     "xinsheng": true,
     "pomodoroSessions": true,
-    "couplesData": true
+    "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true,
+    "customGameSaves": true,
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "wallpapers": true,
+    "lifeRpgData": true,
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "isekaiPresets": true,
+    "pomodoroData": true,
+    "regexRules": true,
+    "mcpServers": true,
+    "thinkingStore": true,
+    "commitments": true,
+    "characterLifeState": true,
+    "chikanPhoneSkins": true,
+    "healthEntries": true,
+    "healthProfile": true
   },
   "inProgress": true
 }
