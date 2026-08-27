@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812425991,
+  "timestamp": 1787812430745,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -87,7 +87,8 @@
   ],
   "chunkedTables": {
     "messages": 2,
-    "roleStickers": 2
+    "roleStickers": 2,
+    "imageStore": 1
   },
   "completedTables": {
     "characters": true,
@@ -114,7 +115,17 @@
     "customBgm": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true
+    "userLinks": true,
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true,
+    "calendarData": true,
+    "groupChats": true,
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true
   },
   "inProgress": true
 }
