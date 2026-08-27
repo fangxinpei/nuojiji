@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812141020,
+  "timestamp": 1787812146112,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -91,7 +91,8 @@
     "worldBooks": true,
     "stickers": true,
     "kaomojis": true,
-    "users": true
+    "users": true,
+    "userState": true
   },
   "inProgress": true
 }
