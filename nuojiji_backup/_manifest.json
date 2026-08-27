@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812346545,
+  "timestamp": 1787812348221,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -114,15 +114,7 @@
     "customBgm": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true
+    "userLinks": true
   },
   "inProgress": true
 }
