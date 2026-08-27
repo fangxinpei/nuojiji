@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787812784294,
+  "timestamp": 1787812789307,
   "appVersion": "6.9.53 (2026.08.26)",
   "tables": [
     "characters",
@@ -88,7 +88,7 @@
   "chunkedTables": {
     "messages": 2,
     "roleStickers": 2,
-    "imageStore": 1
+    "imageStore": 7
   },
   "completedTables": {
     "characters": true,
@@ -147,22 +147,7 @@
     "chikanPhoneSkins": true,
     "healthEntries": true,
     "healthProfile": true,
-    "homelandState": true,
-    "fontStore": true,
-    "radioData": true,
-    "novelBooks": true,
-    "novelChapters": true,
-    "coReadBooks": true,
-    "coReadSessions": true,
-    "naiVibeCache": true,
-    "walletTransactions": true,
-    "walletData": true,
-    "shopOrders": true,
-    "shopData": true,
-    "shopFulfillments": true,
-    "chatVariables": true,
-    "plugins": true,
-    "pluginAssets": true
+    "homelandState": true
   },
   "inProgress": true
 }
