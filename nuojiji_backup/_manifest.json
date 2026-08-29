@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787814137790,
-  "appVersion": "6.9.53 (2026.08.26)",
+  "timestamp": 1788003493009,
+  "appVersion": "6.9.56 (2026.08.29)",
   "tables": [
     "characters",
     "friendRequests",
