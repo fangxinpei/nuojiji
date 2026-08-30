@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788067992861,
-  "appVersion": "6.9.57 (2026.08.30)",
+  "timestamp": 1788067996614,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -86,10 +86,10 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 2,
-    "roleStickers": 14,
-    "imageStore": 8,
-    "stickers": 6
+    "roleStickers": 4,
+    "imageStore": 4,
+    "stickers": 2,
+    "stickerStore": 3
   },
   "completedTables": {
     "characters": true,
@@ -124,7 +124,6 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
-    "stickerStore": true,
     "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
@@ -166,7 +165,9 @@
     "pluginAssets": true,
     "pluginData": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "messages": true
   },
+  "source": "auto",
   "inProgress": true
 }
