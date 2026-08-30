@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788067871946,
-  "appVersion": "auto-backup",
+  "timestamp": 1788067874845,
+  "appVersion": "6.9.57 (2026.08.30)",
   "tables": [
     "characters",
     "friendRequests",
@@ -86,9 +86,10 @@
     "_migration"
   ],
   "chunkedTables": {
-    "roleStickers": 4,
+    "messages": 2,
+    "roleStickers": 14,
     "imageStore": 8,
-    "stickers": 2
+    "stickers": 6
   },
   "completedTables": {
     "characters": true,
@@ -165,9 +166,7 @@
     "pluginAssets": true,
     "pluginData": true,
     "charLifePlans": true,
-    "_migration": true,
-    "messages": true
+    "_migration": true
   },
-  "source": "auto",
   "inProgress": true
 }
