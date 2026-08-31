@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788068406757,
-  "appVersion": "6.9.57 (2026.08.30)",
+  "timestamp": 1788157240731,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -72,6 +72,7 @@
     "coReadBooks",
     "coReadChapters",
     "coReadSessions",
+    "coReadQuotes",
     "naiVibeCache",
     "walletTransactions",
     "walletData",
@@ -168,12 +169,6 @@
     "charLifePlans": true,
     "_migration": true
   },
-  "skippedTables": [
-    "globalSettings",
-    "stickers",
-    "messages",
-    "roleStickers",
-    "tmSessions"
-  ],
-  "inProgress": false
+  "source": "auto",
+  "inProgress": true
 }
