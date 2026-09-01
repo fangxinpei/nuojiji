@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788307143865,
+  "timestamp": 1788307152645,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -90,8 +90,7 @@
     "roleStickers": 4,
     "imageStore": 13,
     "stickers": 2,
-    "stickerStore": 11,
-    "messages": 2
+    "stickerStore": 11
   },
   "completedTables": {
     "characters": true,
@@ -168,7 +167,8 @@
     "pluginData": true,
     "charLifePlans": true,
     "_migration": true,
-    "coReadQuotes": true
+    "coReadQuotes": true,
+    "messages": true
   },
   "source": "auto",
   "inProgress": true
