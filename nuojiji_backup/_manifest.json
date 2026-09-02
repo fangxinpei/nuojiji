@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788310024106,
-  "appVersion": "auto-backup",
+  "timestamp": 1788310029768,
+  "appVersion": "6.9.64 (2026.09.02)",
   "tables": [
     "characters",
     "friendRequests",
@@ -171,6 +171,5 @@
     "coReadQuotes": true,
     "messages": true
   },
-  "source": "auto",
   "inProgress": true
 }
