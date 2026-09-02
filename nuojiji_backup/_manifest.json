@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788317806537,
+  "timestamp": 1788317808521,
   "appVersion": "6.9.65 (2026.09.02)",
   "tables": [
     "characters",
@@ -172,5 +172,9 @@
     "coReadQuotes": true,
     "customCalendars": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings",
+    "roleStickers"
+  ],
+  "inProgress": false
 }
