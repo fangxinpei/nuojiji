@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788310876013,
+  "timestamp": 1788310878216,
   "appVersion": "6.9.64 (2026.09.02)",
   "tables": [
     "characters",
@@ -172,5 +172,12 @@
     "messages": true,
     "customCalendars": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings",
+    "stickers",
+    "messages",
+    "roleStickers",
+    "imageStore"
+  ],
+  "inProgress": false
 }
