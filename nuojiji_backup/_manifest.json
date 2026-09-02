@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788317808521,
-  "appVersion": "6.9.65 (2026.09.02)",
+  "timestamp": 1788344621437,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -172,9 +172,6 @@
     "coReadQuotes": true,
     "customCalendars": true
   },
-  "skippedTables": [
-    "globalSettings",
-    "roleStickers"
-  ],
-  "inProgress": false
+  "source": "auto",
+  "inProgress": true
 }
