@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788310878216,
-  "appVersion": "6.9.64 (2026.09.02)",
+  "timestamp": 1788313437791,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -172,12 +172,6 @@
     "messages": true,
     "customCalendars": true
   },
-  "skippedTables": [
-    "globalSettings",
-    "stickers",
-    "messages",
-    "roleStickers",
-    "imageStore"
-  ],
-  "inProgress": false
+  "source": "auto",
+  "inProgress": true
 }
