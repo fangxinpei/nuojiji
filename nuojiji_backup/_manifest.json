@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788345050579,
+  "timestamp": 1788914553130,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -70,6 +70,7 @@
     "radioData",
     "novelBooks",
     "novelChapters",
+    "novelVolumes",
     "coReadBooks",
     "coReadChapters",
     "coReadSessions",
@@ -82,8 +83,10 @@
     "shopFulfillments",
     "chatVariables",
     "plugins",
+    "avatarFrames",
     "pluginAssets",
     "pluginData",
+    "charBondSpaces",
     "charLifePlans",
     "_migration"
   ],
@@ -173,5 +176,5 @@
     "messages": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
