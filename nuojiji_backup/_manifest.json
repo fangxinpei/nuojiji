@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789451228356,
+  "timestamp": 1789451234583,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -177,7 +177,8 @@
     "_migration": true,
     "coReadQuotes": true,
     "customCalendars": true,
-    "messages": true
+    "messages": true,
+    "goingOutLogs": true
   },
   "source": "auto",
   "inProgress": true
