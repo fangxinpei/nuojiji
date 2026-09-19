@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789723712376,
-  "appVersion": "6.9.80 (2026.09.18)",
+  "timestamp": 1789784079786,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -198,8 +198,6 @@
     "shareLinkMeta": true,
     "coReadTranslations": true
   },
-  "skippedTables": [
-    "globalSettings"
-  ],
-  "inProgress": false
+  "source": "auto",
+  "inProgress": true
 }
