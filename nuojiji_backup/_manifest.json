@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790858224370,
+  "timestamp": 1790858231907,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -212,7 +212,9 @@
     "coReadTranslations": true,
     "forumItems": true,
     "xinshengRounds": true,
-    "jiliDMMessages": true
+    "jiliDMMessages": true,
+    "coReadComments": true,
+    "rowFieldItems": true
   },
   "source": "auto",
   "inProgress": true
