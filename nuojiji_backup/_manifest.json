@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791617147409,
+  "timestamp": 1791617149654,
   "appVersion": "6.9.95 (2026.10.06)",
   "tables": [
     "characters",
@@ -224,5 +224,8 @@
     "deliveryBiz": true,
     "assets": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings"
+  ],
+  "inProgress": false
 }
